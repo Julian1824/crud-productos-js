@@ -1,0 +1,16 @@
+{
+    "name": "crud-productos",
+    "version": "1.0.0",
+    "description": "CRUD de productos con JavaScript nativo",
+    "main": "main.js",
+    "scripts": {
+      "sonar": "sonar-scanner",
+      "test": "echo \"No test framework configured\" && exit 0"
+    },
+    "keywords": ["javascript", "crud", "productos"],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "sonar-scanner": "^3.1.0"
+    }
+  }
